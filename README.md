@@ -1,4 +1,4 @@
-### Comparison of Different Neural Network Architectures for Neural Transfer Learning
+## Comparison of Different Neural Network Architectures for Neural Transfer Learning
 
 This is the codes for GR5242 Final Project.
 
