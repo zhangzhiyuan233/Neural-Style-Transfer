@@ -1,4 +1,4 @@
-## Comparison of Different Neural Network Architectures for Neural Transfer Learning
+# Comparison of Different Neural Network Architectures for Neural Transfer Learning
 
 This is the codes for GR5242 Final Project.
 
@@ -6,6 +6,8 @@ We built a neural transfer system and compared the performance of this system un
 
 The hyper-parameters we studied in this projects are weights of loss \& style functions($\alpha$ and $\beta$), noise ratio for the content pictures($\theta$), learning rate for the gradient descent optimizer($\eta$, we used Stochastic gradient descent as optimizer) We also observed the results under different iterations and random seeds. 
 
+
+## Directory
 
 ```
 ./
