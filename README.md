@@ -3,6 +3,8 @@
 Comparison of Different Neural Network Architectures for Neural Transfer Learning
 
 It is for team Ganondorf
+
+···
 ./
 ├── README.md
 ├── contents
@@ -45,3 +47,4 @@ It is for team Ganondorf
     └── model.py
 
 4 directories, 35 files
+···
