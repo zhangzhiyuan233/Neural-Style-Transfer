@@ -1,6 +1,6 @@
 # Comparison of Different Neural Network Architectures for Neural Transfer Learning
 
-This is the codes for GR5242 Final Project.
+This is the codes for GR5242 Final Project by Chui Kong, Runfeng Tian, Qihang Yang and Zhiyuan Zhang.
 
 We built a neural transfer system and compared the performance of this system under different hyper-parameter settings as well as different neural networks architecture. We compared the results between different neural networks architectures including VGG-19, ResNet50, Xception in our neural transfer system. 
 
